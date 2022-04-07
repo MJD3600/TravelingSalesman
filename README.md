@@ -1,5 +1,5 @@
 # TravelingSalesman
 Program made to solve the Traveling Salesman Problem
 
-Includes Point Class that is used within the program 
+Includes Point Class and High Res Timer Class that is used within the program 
 
